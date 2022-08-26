@@ -1,0 +1,37 @@
+{
+    "pythonServer": {
+        "messages": {
+            "modalTitles": {
+                "needLogin": " Vous devez être connecté pour accéder à cette fonctionnalité",
+                "needPremium": " Vous devez être premium pour accéder à cette fonctionnalité"
+            },
+            "modalTexts": {
+                "needLogin": " Cette fonctionnalité est réservée aux utilisateurs connectés et premium. Vous pouvez vous connecter en cliquant sur le bouton ci-dessous.",
+                "needPremium": " <h3>Bénéficiez de plus de fonctionnalités avec votre abonnement premium.</h3><p>Vous pouvez en apprendre plus sur les fonctionnalités premium en cliquant sur le bouton ci-dessous.</p> <p>Vous rencontrez un problème avec votre abonnement ?</p> <p>Contactez-nous à <a href='mailto:contact@vittascience.com'></p>",
+                "needVM": " Pour excécuter ce code, une machine distante va être lancée, voulez-vous continuer ?",
+                "credentials": " Nous n'arrivons pas à vous identifier. Veuillez vous connecter puis réessayer.",
+                "titleFirstPremium": " Utilisez nos machines virtuelles pour exécuter votre code !",
+                "titleSecondPremium": " Bénéficiez de plus de fonctionnalités avec votre abonnement premium.",
+                "functionalitiesPremium": " Vous pouvez en savoir plus sur les fonctionnalités premium en cliquant sur le bouton ci-dessous.",
+                "infoPremium": " Découvrez nos abonnements",
+                "problemPremium": " Vous rencontrez un problème avec votre abonnement ?",
+                "contactPremium": " Contactez <a href='mailto:contact@vittascience.com'>contact@vittascience.com",
+                "cantRunLocal": " Votre code Python utilise des fonctionnalités avancées qui ne sont pas exécutables dans votre navigateur. Vous pouvez exécuter votre code sur un serveur avec Vittascience Premium.",
+                "codeInformation": " Le code généré sur Vittascience peut également être exécuter sur votre machine si vous avez déjà installé Python (pour cela vous pouvez copier le code Python généré par Vittascience dans votre éditeur Python local)."
+            },
+            "buttons": {
+                "login": " Se connecter",
+                "premium": " S'abonner",
+                "cancel": " Annuler",
+                "continue": " Continuer",
+                "more": " En savoir plus",
+                "copy": " Copier le code dans le presse-papier"
+            },
+            "sleepModeOn": " Retour vidéo en veille, executer à nouveau le code pour le réactiver.",
+            "noContainer": " Aucun container disponible, nous vous en créons un !",
+            "awaitTime": " Temps d'attente estimé 50 secondes !",
+            "awaitContainer": " Votre container est en cours de création...",
+            "connectionStarted": " Connexion à un serveur distant."
+        }
+    }
+}

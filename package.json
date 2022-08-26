@@ -1,0 +1,22 @@
+{
+  "name": "i18n-auto-translator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "i18sync.js",
+  "scripts": {
+    "copy": "node i18sync.js --src fr --target en",
+    "translate": "node i18sync.js --src fr --target en --translate",
+    "translate-g": "node i18sync.js --src fr --target ar --translate --google",
+    "count": "node i18count.js --src fr"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/translate": "^7.0.0",
+    "axios": "^0.26.1",
+    "dotenv": "^16.0.0",
+    "fs-extra": "^10.0.1",
+    "lodash": "^4.17.21",
+    "yargs": "^17.4.0"
+  }
+}
